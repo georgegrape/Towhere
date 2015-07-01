@@ -1,0 +1,7 @@
+pod 'AFNetworking'
+pod 'AVOSCloud'
+pod 'AVOSCloudCrashReporting'
+pod 'AVOSCloudIM'
+pod 'AVOSCloudSNS'
+pod 'SDWebImage'
+pod 'EaseMobSDK'
